@@ -1,16 +1,11 @@
 # read_json_file
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/101748327/195228393-7da837ec-a5a9-47f7-b00d-d05692af9908.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/101748327/195228495-273cfe79-f9ce-48c3-b6a2-7439809c5910.png)
+![image](https://user-images.githubusercontent.com/101748327/195228629-b9b98969-d4a9-44a3-abc4-0b3a55e5bd73.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/101748327/195228552-7d1e4d85-424c-475a-b5e3-1673bc51195f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
