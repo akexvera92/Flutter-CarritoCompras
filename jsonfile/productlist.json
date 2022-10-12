@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "nombre": "QUESO",
+    "categoria": "comestible",
+    "imageUrl": "https://vignette.wikia.nocookie.net/universosteven/images/6/65/Queso.jpg/revision/latest?cb=20160818202607&path-prefix=es",
+    "precio": "$ 2.500",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id": 1,
+    "nombre": "LECHE",
+    "categoria": "comestible",
+    "imageUrl": "https://th.bing.com/th/id/R.fe4801e8f5207eb360dea2f4930e713c?rik=AWtLF44qTA5A0Q&pid=ImgRaw&r=0",
+    "precio": "$ 2.000",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id":2,
+    "nombre": "HUEVOS",
+    "categoria": "comestible",
+    "imageUrl": "https://th.bing.com/th/id/OIP.eHf09DQsyn74JyMJAWQlNgHaFZ?pid=ImgDet&rs=1",
+    "precio": "$ 12.000",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id": 3,
+    "nombre": "FLORES",
+    "categoria": "adornos",
+    "imageUrl": "https://th.bing.com/th/id/OIP.e0AEmGNtZ1P0J5rPs146_AHaEo?pid=ImgDet&rs=1",
+    "precio": "$ 4.000",
+    "cantidad":10,
+    "isAdd":false
+  }
+
+]
